@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="kendaraan">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="no_plat" type="xs:string" minOccurs="0" />
+                <xs:element name="jenis_kendaraan" type="xs:string" minOccurs="0" />
+                <xs:element name="id_antrian" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="id_antrian" type="xs:int" minOccurs="0" />
+                <xs:element name="no_plat" type="xs:string" minOccurs="0" />
+                <xs:element name="jenis_kendaraan" type="xs:string" minOccurs="0" />
+                <xs:element name="waktu_masuk" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="waktu_keluar" type="xs:dateTime" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <kendaraan>
+    <no_plat>L7865OP</no_plat>
+    <jenis_kendaraan>Sepeda Motor</jenis_kendaraan>
+    <id_antrian>984895</id_antrian>
+  </kendaraan>
+  <kendaraan>
+    <no_plat>M9089LO</no_plat>
+    <jenis_kendaraan>Mobil</jenis_kendaraan>
+    <id_antrian>9838434</id_antrian>
+  </kendaraan>
+  <Table>
+    <id_antrian>9838434</id_antrian>
+    <no_plat>M9089LO</no_plat>
+    <jenis_kendaraan>Mobil</jenis_kendaraan>
+    <waktu_masuk>2019-01-29T11:44:50+07:00</waktu_masuk>
+    <waktu_keluar>2019-01-30T13:15:13+07:00</waktu_keluar>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,67 @@
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\bin\Debug\parkir.exe.config
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\bin\Debug\parkir.exe
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\bin\Debug\parkir.pdb
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\bin\Debug\parkir.xml
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\bin\Debug\MySql.Data.dll
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\bin\Debug\MySql.Data.xml
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkir.Home.resources
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkir.Resources.resources
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkir.Pegawai.resources
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkir.PKeluar.resources
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkir.PMasuk.resources
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkir.profpegawai.resources
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkir.profperu.resources
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkir.signin.resources
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkiren.vbproj.GenerateResource.Cache
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkir.exe
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkir.xml
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkir.pdb
+C:\Users\KHAMDY\documents\visual studio 2015\Projects\parkir\parkir\obj\Debug\parkiren.vbprojResolveAssemblyReference.cache
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\parkir.exe.config
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\parkir.exe
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\parkir.pdb
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\parkir.xml
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.Shared.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\FlashControlV71.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\MessagingToolkit.Barcode.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\MySql.Data.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\ShockwaveFlashObjects.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\stdole.dll
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Project\Dekstop\parkiren\parkir\bin\Debug\MySql.Data.xml
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkiren.vbprojResolveAssemblyReference.cache
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.Home.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.karcis_pkeluar.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.karcis_pmasuk.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.laporan_pkeluar.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.laporan_pmasuk.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.laporan_transaksi.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.Resources.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.Pegawai.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.Parkir_Keluar.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.Parkir_Masuk.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.prof_pegawai.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.prof_peru.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.signin.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.Tarif_parkir.resources
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkiren.vbproj.GenerateResource.Cache
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.exe
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.xml
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.pdb
+D:\Project\Dekstop\parkiren\parkir\obj\Debug\parkir.cobalogin.resources
